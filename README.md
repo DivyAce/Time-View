@@ -1,7 +1,7 @@
 # TimeView
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anishkumar/TimeView.swiftpm/main/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="128" height="128" alt="TimeView Icon">
+  <img src="https://raw.githubusercontent.com/DivyAce/Time-View/main/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="128" height="128" alt="TimeView Icon">
 </p>
 
 <h3 align="center">Make your time tangible.</h3>
